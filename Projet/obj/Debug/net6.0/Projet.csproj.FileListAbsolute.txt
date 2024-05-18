@@ -1,0 +1,114 @@
+/Users/williamrabolin/Library/CloudStorage/OneDrive-DeVinci/Année 3/Semestre 6/BDD & Interopérabilité/Projet/Projet/bin/Debug/net6.0/Projet
+/Users/williamrabolin/Library/CloudStorage/OneDrive-DeVinci/Année 3/Semestre 6/BDD & Interopérabilité/Projet/Projet/bin/Debug/net6.0/Projet.deps.json
+/Users/williamrabolin/Library/CloudStorage/OneDrive-DeVinci/Année 3/Semestre 6/BDD & Interopérabilité/Projet/Projet/bin/Debug/net6.0/Projet.runtimeconfig.json
+/Users/williamrabolin/Library/CloudStorage/OneDrive-DeVinci/Année 3/Semestre 6/BDD & Interopérabilité/Projet/Projet/bin/Debug/net6.0/Projet.dll
+/Users/williamrabolin/Library/CloudStorage/OneDrive-DeVinci/Année 3/Semestre 6/BDD & Interopérabilité/Projet/Projet/bin/Debug/net6.0/Projet.pdb
+/Users/williamrabolin/Library/CloudStorage/OneDrive-DeVinci/Année 3/Semestre 6/BDD & Interopérabilité/Projet/Projet/bin/Debug/net6.0/Google.Protobuf.dll
+/Users/williamrabolin/Library/CloudStorage/OneDrive-DeVinci/Année 3/Semestre 6/BDD & Interopérabilité/Projet/Projet/bin/Debug/net6.0/K4os.Compression.LZ4.dll
+/Users/williamrabolin/Library/CloudStorage/OneDrive-DeVinci/Année 3/Semestre 6/BDD & Interopérabilité/Projet/Projet/bin/Debug/net6.0/K4os.Compression.LZ4.Streams.dll
+/Users/williamrabolin/Library/CloudStorage/OneDrive-DeVinci/Année 3/Semestre 6/BDD & Interopérabilité/Projet/Projet/bin/Debug/net6.0/K4os.Hash.xxHash.dll
+/Users/williamrabolin/Library/CloudStorage/OneDrive-DeVinci/Année 3/Semestre 6/BDD & Interopérabilité/Projet/Projet/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/williamrabolin/Library/CloudStorage/OneDrive-DeVinci/Année 3/Semestre 6/BDD & Interopérabilité/Projet/Projet/bin/Debug/net6.0/MySql.Data.dll
+/Users/williamrabolin/Library/CloudStorage/OneDrive-DeVinci/Année 3/Semestre 6/BDD & Interopérabilité/Projet/Projet/bin/Debug/net6.0/BouncyCastle.Crypto.dll
+/Users/williamrabolin/Library/CloudStorage/OneDrive-DeVinci/Année 3/Semestre 6/BDD & Interopérabilité/Projet/Projet/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/williamrabolin/Library/CloudStorage/OneDrive-DeVinci/Année 3/Semestre 6/BDD & Interopérabilité/Projet/Projet/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/williamrabolin/Library/CloudStorage/OneDrive-DeVinci/Année 3/Semestre 6/BDD & Interopérabilité/Projet/Projet/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/williamrabolin/Library/CloudStorage/OneDrive-DeVinci/Année 3/Semestre 6/BDD & Interopérabilité/Projet/Projet/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/williamrabolin/Library/CloudStorage/OneDrive-DeVinci/Année 3/Semestre 6/BDD & Interopérabilité/Projet/Projet/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/williamrabolin/Library/CloudStorage/OneDrive-DeVinci/Année 3/Semestre 6/BDD & Interopérabilité/Projet/Projet/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/williamrabolin/Library/CloudStorage/OneDrive-DeVinci/Année 3/Semestre 6/BDD & Interopérabilité/Projet/Projet/bin/Debug/net6.0/runtimes/win-x64/native/comerr64.dll
+/Users/williamrabolin/Library/CloudStorage/OneDrive-DeVinci/Année 3/Semestre 6/BDD & Interopérabilité/Projet/Projet/bin/Debug/net6.0/runtimes/win-x64/native/gssapi64.dll
+/Users/williamrabolin/Library/CloudStorage/OneDrive-DeVinci/Année 3/Semestre 6/BDD & Interopérabilité/Projet/Projet/bin/Debug/net6.0/runtimes/win-x64/native/k5sprt64.dll
+/Users/williamrabolin/Library/CloudStorage/OneDrive-DeVinci/Année 3/Semestre 6/BDD & Interopérabilité/Projet/Projet/bin/Debug/net6.0/runtimes/win-x64/native/krb5_64.dll
+/Users/williamrabolin/Library/CloudStorage/OneDrive-DeVinci/Année 3/Semestre 6/BDD & Interopérabilité/Projet/Projet/bin/Debug/net6.0/runtimes/win-x64/native/krbcc64.dll
+/Users/williamrabolin/Library/CloudStorage/OneDrive-DeVinci/Année 3/Semestre 6/BDD & Interopérabilité/Projet/Projet/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/williamrabolin/Library/CloudStorage/OneDrive-DeVinci/Année 3/Semestre 6/BDD & Interopérabilité/Projet/Projet/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/williamrabolin/Library/CloudStorage/OneDrive-DeVinci/Année 3/Semestre 6/BDD & Interopérabilité/Projet/Projet/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/williamrabolin/Library/CloudStorage/OneDrive-DeVinci/Année 3/Semestre 6/BDD & Interopérabilité/Projet/Projet/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/williamrabolin/Library/CloudStorage/OneDrive-DeVinci/Année 3/Semestre 6/BDD & Interopérabilité/Projet/Projet/obj/Debug/net6.0/Projet.csproj.AssemblyReference.cache
+/Users/williamrabolin/Library/CloudStorage/OneDrive-DeVinci/Année 3/Semestre 6/BDD & Interopérabilité/Projet/Projet/obj/Debug/net6.0/Projet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williamrabolin/Library/CloudStorage/OneDrive-DeVinci/Année 3/Semestre 6/BDD & Interopérabilité/Projet/Projet/obj/Debug/net6.0/Projet.AssemblyInfoInputs.cache
+/Users/williamrabolin/Library/CloudStorage/OneDrive-DeVinci/Année 3/Semestre 6/BDD & Interopérabilité/Projet/Projet/obj/Debug/net6.0/Projet.AssemblyInfo.cs
+/Users/williamrabolin/Library/CloudStorage/OneDrive-DeVinci/Année 3/Semestre 6/BDD & Interopérabilité/Projet/Projet/obj/Debug/net6.0/Projet.csproj.CoreCompileInputs.cache
+/Users/williamrabolin/Library/CloudStorage/OneDrive-DeVinci/Année 3/Semestre 6/BDD & Interopérabilité/Projet/Projet/obj/Debug/net6.0/Projet.csproj.CopyComplete
+/Users/williamrabolin/Library/CloudStorage/OneDrive-DeVinci/Année 3/Semestre 6/BDD & Interopérabilité/Projet/Projet/obj/Debug/net6.0/Projet.dll
+/Users/williamrabolin/Library/CloudStorage/OneDrive-DeVinci/Année 3/Semestre 6/BDD & Interopérabilité/Projet/Projet/obj/Debug/net6.0/refint/Projet.dll
+/Users/williamrabolin/Library/CloudStorage/OneDrive-DeVinci/Année 3/Semestre 6/BDD & Interopérabilité/Projet/Projet/obj/Debug/net6.0/Projet.pdb
+/Users/williamrabolin/Library/CloudStorage/OneDrive-DeVinci/Année 3/Semestre 6/BDD & Interopérabilité/Projet/Projet/obj/Debug/net6.0/Projet.genruntimeconfig.cache
+/Users/williamrabolin/Library/CloudStorage/OneDrive-DeVinci/Année 3/Semestre 6/BDD & Interopérabilité/Projet/Projet/obj/Debug/net6.0/ref/Projet.dll
+C:\Users\willr\OneDrive - De Vinci\Année 3\Semestre 6\BDD & Interopérabilité\Projet\Projet\obj\Debug\net6.0\Projet.csproj.AssemblyReference.cache
+C:\Users\willr\OneDrive - De Vinci\Année 3\Semestre 6\BDD & Interopérabilité\Projet\Projet\obj\Debug\net6.0\Projet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willr\OneDrive - De Vinci\Année 3\Semestre 6\BDD & Interopérabilité\Projet\Projet\obj\Debug\net6.0\Projet.AssemblyInfoInputs.cache
+C:\Users\willr\OneDrive - De Vinci\Année 3\Semestre 6\BDD & Interopérabilité\Projet\Projet\obj\Debug\net6.0\Projet.AssemblyInfo.cs
+C:\Users\willr\OneDrive - De Vinci\Année 3\Semestre 6\BDD & Interopérabilité\Projet\Projet\obj\Debug\net6.0\Projet.csproj.CoreCompileInputs.cache
+C:\Users\willr\OneDrive - De Vinci\Année 3\Semestre 6\BDD & Interopérabilité\Projet\Projet\obj\Debug\net6.0\Projet.dll
+C:\Users\willr\OneDrive - De Vinci\Année 3\Semestre 6\BDD & Interopérabilité\Projet\Projet\obj\Debug\net6.0\refint\Projet.dll
+C:\Users\willr\OneDrive - De Vinci\Année 3\Semestre 6\BDD & Interopérabilité\Projet\Projet\obj\Debug\net6.0\Projet.pdb
+C:\Users\willr\OneDrive - De Vinci\Année 3\Semestre 6\BDD & Interopérabilité\Projet\Projet\bin\Debug\net6.0\Projet.exe
+C:\Users\willr\OneDrive - De Vinci\Année 3\Semestre 6\BDD & Interopérabilité\Projet\Projet\bin\Debug\net6.0\Projet.deps.json
+C:\Users\willr\OneDrive - De Vinci\Année 3\Semestre 6\BDD & Interopérabilité\Projet\Projet\bin\Debug\net6.0\Projet.runtimeconfig.json
+C:\Users\willr\OneDrive - De Vinci\Année 3\Semestre 6\BDD & Interopérabilité\Projet\Projet\bin\Debug\net6.0\Projet.dll
+C:\Users\willr\OneDrive - De Vinci\Année 3\Semestre 6\BDD & Interopérabilité\Projet\Projet\bin\Debug\net6.0\Projet.pdb
+C:\Users\willr\OneDrive - De Vinci\Année 3\Semestre 6\BDD & Interopérabilité\Projet\Projet\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\willr\OneDrive - De Vinci\Année 3\Semestre 6\BDD & Interopérabilité\Projet\Projet\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\willr\OneDrive - De Vinci\Année 3\Semestre 6\BDD & Interopérabilité\Projet\Projet\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\willr\OneDrive - De Vinci\Année 3\Semestre 6\BDD & Interopérabilité\Projet\Projet\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\willr\OneDrive - De Vinci\Année 3\Semestre 6\BDD & Interopérabilité\Projet\Projet\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\willr\OneDrive - De Vinci\Année 3\Semestre 6\BDD & Interopérabilité\Projet\Projet\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\willr\OneDrive - De Vinci\Année 3\Semestre 6\BDD & Interopérabilité\Projet\Projet\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\willr\OneDrive - De Vinci\Année 3\Semestre 6\BDD & Interopérabilité\Projet\Projet\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\willr\OneDrive - De Vinci\Année 3\Semestre 6\BDD & Interopérabilité\Projet\Projet\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\willr\OneDrive - De Vinci\Année 3\Semestre 6\BDD & Interopérabilité\Projet\Projet\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\willr\OneDrive - De Vinci\Année 3\Semestre 6\BDD & Interopérabilité\Projet\Projet\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\willr\OneDrive - De Vinci\Année 3\Semestre 6\BDD & Interopérabilité\Projet\Projet\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\willr\OneDrive - De Vinci\Année 3\Semestre 6\BDD & Interopérabilité\Projet\Projet\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\willr\OneDrive - De Vinci\Année 3\Semestre 6\BDD & Interopérabilité\Projet\Projet\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\willr\OneDrive - De Vinci\Année 3\Semestre 6\BDD & Interopérabilité\Projet\Projet\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\willr\OneDrive - De Vinci\Année 3\Semestre 6\BDD & Interopérabilité\Projet\Projet\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\willr\OneDrive - De Vinci\Année 3\Semestre 6\BDD & Interopérabilité\Projet\Projet\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\willr\OneDrive - De Vinci\Année 3\Semestre 6\BDD & Interopérabilité\Projet\Projet\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\willr\OneDrive - De Vinci\Année 3\Semestre 6\BDD & Interopérabilité\Projet\Projet\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\willr\OneDrive - De Vinci\Année 3\Semestre 6\BDD & Interopérabilité\Projet\Projet\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\willr\OneDrive - De Vinci\Année 3\Semestre 6\BDD & Interopérabilité\Projet\Projet\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\willr\OneDrive - De Vinci\Année 3\Semestre 6\BDD & Interopérabilité\Projet\Projet\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\willr\OneDrive - De Vinci\Année 3\Semestre 6\BDD & Interopérabilité\Projet\Projet\obj\Debug\net6.0\Projet.csproj.CopyComplete
+C:\Users\willr\OneDrive - De Vinci\Année 3\Semestre 6\BDD & Interopérabilité\Projet\Projet\obj\Debug\net6.0\Projet.genruntimeconfig.cache
+C:\Users\willr\OneDrive - De Vinci\Année 3\Semestre 6\BDD & Interopérabilité\Projet\Projet\obj\Debug\net6.0\ref\Projet.dll
+C:\Users\willr\Documents\GitHub\Projet\Projet\bin\Debug\net6.0\Projet.exe
+C:\Users\willr\Documents\GitHub\Projet\Projet\bin\Debug\net6.0\Projet.deps.json
+C:\Users\willr\Documents\GitHub\Projet\Projet\bin\Debug\net6.0\Projet.runtimeconfig.json
+C:\Users\willr\Documents\GitHub\Projet\Projet\bin\Debug\net6.0\Projet.dll
+C:\Users\willr\Documents\GitHub\Projet\Projet\bin\Debug\net6.0\Projet.pdb
+C:\Users\willr\Documents\GitHub\Projet\Projet\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\willr\Documents\GitHub\Projet\Projet\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\willr\Documents\GitHub\Projet\Projet\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\willr\Documents\GitHub\Projet\Projet\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\willr\Documents\GitHub\Projet\Projet\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\willr\Documents\GitHub\Projet\Projet\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\willr\Documents\GitHub\Projet\Projet\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\willr\Documents\GitHub\Projet\Projet\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\willr\Documents\GitHub\Projet\Projet\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\willr\Documents\GitHub\Projet\Projet\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\willr\Documents\GitHub\Projet\Projet\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\willr\Documents\GitHub\Projet\Projet\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\willr\Documents\GitHub\Projet\Projet\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\willr\Documents\GitHub\Projet\Projet\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\willr\Documents\GitHub\Projet\Projet\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\willr\Documents\GitHub\Projet\Projet\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\willr\Documents\GitHub\Projet\Projet\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\willr\Documents\GitHub\Projet\Projet\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\willr\Documents\GitHub\Projet\Projet\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\willr\Documents\GitHub\Projet\Projet\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\willr\Documents\GitHub\Projet\Projet\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\willr\Documents\GitHub\Projet\Projet\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\willr\Documents\GitHub\Projet\Projet\obj\Debug\net6.0\Projet.csproj.AssemblyReference.cache
+C:\Users\willr\Documents\GitHub\Projet\Projet\obj\Debug\net6.0\Projet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willr\Documents\GitHub\Projet\Projet\obj\Debug\net6.0\Projet.AssemblyInfoInputs.cache
+C:\Users\willr\Documents\GitHub\Projet\Projet\obj\Debug\net6.0\Projet.AssemblyInfo.cs
+C:\Users\willr\Documents\GitHub\Projet\Projet\obj\Debug\net6.0\Projet.csproj.CoreCompileInputs.cache
+C:\Users\willr\Documents\GitHub\Projet\Projet\obj\Debug\net6.0\Projet.csproj.Up2Date
+C:\Users\willr\Documents\GitHub\Projet\Projet\obj\Debug\net6.0\Projet.dll
+C:\Users\willr\Documents\GitHub\Projet\Projet\obj\Debug\net6.0\refint\Projet.dll
+C:\Users\willr\Documents\GitHub\Projet\Projet\obj\Debug\net6.0\Projet.pdb
+C:\Users\willr\Documents\GitHub\Projet\Projet\obj\Debug\net6.0\Projet.genruntimeconfig.cache
+C:\Users\willr\Documents\GitHub\Projet\Projet\obj\Debug\net6.0\ref\Projet.dll

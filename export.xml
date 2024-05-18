@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Table>
+  <Row>
+    <courriel>william.rabolin@edu.devinci.fr</courriel>
+    <Nom>Rabolin</Nom>
+    <Prenom>William</Prenom>
+    <Numero_de_telephone>654859874</Numero_de_telephone>
+    <Adresse>Courbevoie</Adresse>
+    <Statut_Fidelite>OR</Statut_Fidelite>
+  </Row>
+  <Row>
+    <courriel>mohamed.rakai@edu.devinci.fr</courriel>
+    <Nom>Rakai</Nom>
+    <Prenom>Mohamed</Prenom>
+    <Numero_de_telephone>668854575</Numero_de_telephone>
+    <Adresse>Paris</Adresse>
+    <Statut_Fidelite>BRONZE</Statut_Fidelite>
+  </Row>
+</Table>
