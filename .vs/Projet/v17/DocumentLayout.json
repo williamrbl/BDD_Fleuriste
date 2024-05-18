@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\willr\\Documents\\GitHub\\Projet\\",
+  "WorkspaceRootPath": "C:\\Users\\willr\\Documents\\GitHub\\BDDMagasinFleur\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{15667592-6344-48C1-960B-A63E697AB29B}|Projet\\Projet.csproj|c:\\users\\willr\\documents\\github\\projet\\projet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15667592-6344-48C1-960B-A63E697AB29B}|Projet\\Projet.csproj|c:\\users\\willr\\documents\\github\\bddmagasinfleur\\projet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15667592-6344-48C1-960B-A63E697AB29B}|Projet\\Projet.csproj|solutionrelative:projet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15667592-6344-48C1-960B-A63E697AB29B}|Projet\\Projet.csproj|c:\\users\\willr\\documents\\github\\projet\\projet\\projet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{15667592-6344-48C1-960B-A63E697AB29B}|Projet\\Projet.csproj|c:\\users\\willr\\documents\\github\\bddmagasinfleur\\projet\\projet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{15667592-6344-48C1-960B-A63E697AB29B}|Projet\\Projet.csproj|solutionrelative:projet\\projet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\willr\\Documents\\GitHub\\Projet\\Projet\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\willr\\Documents\\GitHub\\BDDMagasinFleur\\Projet\\Program.cs",
               "RelativeDocumentMoniker": "Projet\\Program.cs",
-              "ToolTip": "C:\\Users\\willr\\Documents\\GitHub\\Projet\\Projet\\Program.cs",
+              "ToolTip": "C:\\Users\\willr\\Documents\\GitHub\\BDDMagasinFleur\\Projet\\Program.cs",
               "RelativeToolTip": "Projet\\Program.cs",
-              "ViewState": "AQIAAHkAAAAAAAAAAAAQwIoAAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIoAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-18T10:42:09.216Z",
               "EditorCaption": ""
@@ -36,15 +36,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Projet",
-              "DocumentMoniker": "C:\\Users\\willr\\Documents\\GitHub\\Projet\\Projet\\Projet.csproj",
+              "Title": "Projet.csproj",
+              "DocumentMoniker": "C:\\Users\\willr\\Documents\\GitHub\\BDDMagasinFleur\\Projet\\Projet.csproj",
               "RelativeDocumentMoniker": "Projet\\Projet.csproj",
-              "ToolTip": "C:\\Users\\willr\\Documents\\GitHub\\Projet\\Projet\\Projet.csproj",
+              "ToolTip": "C:\\Users\\willr\\Documents\\GitHub\\BDDMagasinFleur\\Projet\\Projet.csproj",
               "RelativeToolTip": "Projet\\Projet.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-18T10:42:06.66Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-18T10:42:06.66Z"
             }
           ]
         }

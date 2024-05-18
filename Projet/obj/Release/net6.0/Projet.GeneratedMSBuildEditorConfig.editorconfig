@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Projet
-build_property.ProjectDir = C:\Users\willr\OneDrive - De Vinci\Année 3\Semestre 6\BDD & Interopérabilité\Projet\Projet\
+build_property.ProjectDir = C:\Users\willr\Documents\GitHub\BDDMagasinFleur\Projet\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
